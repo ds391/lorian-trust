@@ -1,0 +1,3 @@
+t Becoming immune to an effect does not remove any ongoing effects covered by that immunity unless explicitly stated. You are struck by the Fatal effect and then become Immune to Fatal (from an item that grants the wearer Immunity to Fatal), the Fatal is not removed, you are however immune to any further Fatal effects. A further example would be if you are under the Fatal effect and receive a Shield from Corruption, the fatal effect would be removed as Shield from Corruption specifically states that it removes ongoing effects (the location would still be damaged, normally -1).
+
+You cannot be specifically immune to Earth, Air, Flame or Water damage types unless you are also immune to Enchanted damage.

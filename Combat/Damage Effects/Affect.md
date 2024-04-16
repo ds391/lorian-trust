@@ -1,0 +1,2 @@
+Affect /<Target Group/> (Magical Damage Effect)
+• Inflicts 1 point of Artefact Damage to the Target Group (Against all other targets it inflicts the default damage type of the blow - Normal unless otherwise stated)

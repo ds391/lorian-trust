@@ -1,0 +1,1 @@
+Collectively the lists Standard Incantation (Balance), Dark Incantation and Light Incantation are known as Incantation. Dark incantation and Light Incantation are specialisations of Standard Incantation. Practitioners of these lists are classed as Incantors for all lammies, loresheets and abilities.

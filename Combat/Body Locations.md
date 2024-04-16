@@ -1,0 +1,1 @@
+Body Locations With the exception of some special creatures, all characters have six body locations. These are the head, torso, left arm, right arm, left leg and right leg. Each body location has 1 base LHV. The number of hits a location has can be increased through skills, magic, items and special powers. If these increases conform to the Rule of Double (see Rule of Double).

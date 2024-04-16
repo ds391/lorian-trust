@@ -1,0 +1,7 @@
+Petrify (Magical Special Effect)
+• The target is rendered Immobile (Target should stay comfortably still, standing if necessary - and not move, cast spells, or perform any other in-character actions including parrying/striking blows etc.) 
+• Places the Target into their Grace Period • Destroys all body locations (Ignoring the Ritual of Peace) 
+• Whilst under the Petrify effect the target is immune to the Sanctuary effect 
+• To cure the Petrify effect one Countermagic must be cast for every complete minute or part thereof that the target has been under this effect (Including the extra time that the following Heal Fatal will take). This must be followed by a Heal Fatal Wound to the torso for the Petrify effect to be removed (see note on sanctuary above). 
+• If there is not enough Countermagic cast for the time elapsed when the Heal Fatal Wound is completed, the entire cure process (removing the Petrify) will be ineffective and must be completely restarted 
+• If the Grace Period ends, the target is dead and turned to stone (Items carried by the target are not turned to stone and may be recovered using the normal rules for removing items from immobilised characters). Note that some creatures will disappear on death, Petrify will not overrule these effects.

@@ -1,0 +1,1 @@
+Stealth, assassination, information gathering, subterfuge and theft

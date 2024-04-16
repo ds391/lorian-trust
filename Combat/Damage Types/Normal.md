@@ -1,0 +1,1 @@
+Inflicts 1 hit of Normal damage

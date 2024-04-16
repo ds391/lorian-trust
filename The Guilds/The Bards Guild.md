@@ -1,0 +1,1 @@
+Entertainers, scribes, poets and scholars.

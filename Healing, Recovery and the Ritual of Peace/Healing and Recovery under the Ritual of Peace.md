@@ -1,0 +1,1 @@
+• Living Patterns with Head or Torso LHV at zero who are under the Ritual of Peace for 10 minutes will recover all of their LHV but will be Debilitated for a further 10 minutes*.

@@ -1,0 +1,1 @@
+Please remember that Artefact damage type cannot be combined with another effect unless a lammie or loresheet specifically allows it. If an item is shattered or destroyed it must be repaired (i.e. handing a broken item to a person that is immune to the effect will not repair the item).

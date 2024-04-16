@@ -1,0 +1,7 @@
+Unusable locations The following list describes what happens to your character once a body location is rendered unusable. These effects should be role-played. When an injury requires you to drop to your knees or to the ground, you should do so as safely as possible.
+
+• Leg location You should stop using the leg in an effective way, walk slowly or drag the leg along for roleplay effect, show difficulty in balance etc. If both leg locations become unusable, you should drop to the ground and roleplay effectively that your legs are unusable. It is acceptable to drag yourself around with your arms for very limited movement.
+
+• Arm Location You must safely drop anything held or supported by that arm (or hand) and should not make any use of that arm (or hand) for in-character actions (including holding items or weapons, casting spells etc). Please use common sense in situations where dropped items may be trampled, damaged or lost. 
+
+• Head or Torso Location Head and Torso are key locations on a character. If a Head or Torso Location is reduced to zero Locational Hits your character falls unconscious and you must drop (safely) to the ground. Please be aware of your surroundings OOC in this situation.

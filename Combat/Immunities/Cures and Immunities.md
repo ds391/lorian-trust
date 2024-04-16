@@ -1,0 +1,1 @@
+Please note that some spells, effects, and venoms require “Cures” to remove them. These cures are required for the magical effect/venom only (to remove them) and the immunity and/or “may not be targeted” ability of the target is irrelevant. Spells may target someone who is immune for the purpose of being cured.

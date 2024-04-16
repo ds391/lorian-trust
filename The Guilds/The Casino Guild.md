@@ -1,0 +1,1 @@
+Fortune and luck of the brave and the foolish.

@@ -1,0 +1,1 @@
+Damage that may kill a Character If a body location is reduced to -1 Locational hits, it is considered to have a Mortal Wound (damage that will lead to death) and is rendered unusable and the character will enter their Grace Period (timed part of the game where death is imminent, a referee is often available at this point to ensure that rules are strictly adhered to).

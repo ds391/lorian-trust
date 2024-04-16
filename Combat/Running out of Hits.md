@@ -1,0 +1,1 @@
+Running out of Hits If a body location is reduced to -1 LHV, it is considered to have a Mortal Wound, and is rendered unusable and the character will enter their Grace Period (see Grace Period).

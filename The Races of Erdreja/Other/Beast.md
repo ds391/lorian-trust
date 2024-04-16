@@ -1,0 +1,1 @@
+Some forms of creature are classed as Beast – these are generally classed as more animal than humanoid and often lack the ability to talk or communicate as a humanoid may be able to. They are highly unusual creatures and may (when created in a Ritual) require unusual, exotic or complex healing or repair requirements. Examples of Beast include: Bear, Wolf, Sheep, Cow.

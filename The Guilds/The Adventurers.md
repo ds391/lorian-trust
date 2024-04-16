@@ -1,0 +1,1 @@
+Faction members of a young age forging their own ways through the lands of Erdreja.

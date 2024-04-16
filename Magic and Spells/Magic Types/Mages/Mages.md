@@ -1,0 +1,1 @@
+Collectively the lists Enchanting, Shadow Magic and Spellcasting are known as Mage Craft. Enchanting and Shadow Magic are specialisations of Spellcasting. Practitioners of these lists are classed as Mages for all lammies, loresheets and abilities.

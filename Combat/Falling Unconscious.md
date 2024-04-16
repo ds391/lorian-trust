@@ -1,0 +1,1 @@
+Falling Unconscious (from Damage, a spell or other effect) If your Character is unconscious (IC) you cannot see or hear anything that is happening IC around you. You should still pay attention OOC to any combat occurring around you and be prepared to move if you are at risk of being trampled, or if a Referee or Marshal asks you to (see Recovery).

@@ -1,0 +1,1 @@
+Ritualists are capable of controlling ritual circles, transport circle and performing rites to allow them to generate spell effects or create magical effects. E.g. creating magical weapons, infusing characters with special abilities or transporting characters from circle to circle. Practitioners are classed as Ritualists for all lammies, loresheets and abilities.

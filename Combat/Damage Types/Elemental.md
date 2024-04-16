@@ -1,0 +1,6 @@
+Earth, Air, Flame, Water (Elemental Damage) 
+• Inflicts 1 point of Enchanted Damage (Note this should be called as Earth/Air/Flame/Water. In addition these damage types have additional effects on some creatures, which will be detailed on their lammie, loresheet or within the description of the Race) 
+• Damage effects preceded by one of the 4 types will inflict damage and special effect regardless of an immunity or Damage Reductions (i.e. Target has a Weakness to Flame and is immune to Strikedown. If struck by Flame Strikedown, the target will take the Strikedown effect as if they had no immunity) 
+• A creature’s Elemental Weakness will extend to any Armour, Weapons, Shields or Items that they are carrying (i.e. Target has a Weakness to Earth and has the Occupational Skill Shield Mastery (Expert) - making a Shield held immune to Crush. If struck by Earth Crush, the Shield will be destroyed by the crush as if it had no immunity) 
+• If a ranged or mass spell/effect is preceded by a creatures Elemental Weakness, the creature with the specific Elemental Weakness will be affected by the special effects regardless of an immunity.
+• All creatures have an Elemental Weakness to at least one of the 4 Elemental Damage types
